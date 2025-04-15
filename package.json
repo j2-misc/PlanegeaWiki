@@ -1,12 +1,12 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "PlanegeaWiki",
+  "description": "A guide to the adventures of the Venom Moon Clan in the land of Planegea",
   "private": true,
   "version": "4.5.0",
   "type": "module",
   "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://j2-misc.github.io/PlanegeaWiki",
   "repository": {
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
