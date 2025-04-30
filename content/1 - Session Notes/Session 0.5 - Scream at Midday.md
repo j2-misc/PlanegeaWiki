@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Session 1
+  - Session 0.5
   - Scream at Midday
 ---
 [[Tall Tale]] was a giant mass of fur the color of a dead channel, tall as a tree, in the shape of a tail. In a Columbo-esque voice, "Seelie and Unseelie, disparate and spread, let me tell you a story. I see you all are so close and familiar to me, as to when I told this story first a long, long time ago. There was a plucky girl with a real spitfire of a lion by her side. There was a strange, strange thing got spat up from the [[Venom Abyss]]. There was a streak of white with a lotta bite, lemme tell ya. And last but not least, there was... I'mgonnatellyouastory. It's been a while so I might not remember all the bits and bobs, ends and odds, but I wanna tell all of you about this adventure. We're all fallin', fallin' through time before engines rumbled, before steamships fired canons across oceans, before the time of knights and armor, castles and cauldrons, even before that, before gladiators, before the pyramids, fall through time with me to an old world of fire and ice and old magic. Fall with me into Planegea, the first of all worlds! Here, the volcano that birthed the worlds, and stars wheel overhead in a never-ending dance. All peoples judged by only one law, the law of survival. Will they survive long enough to carve their story into the walls or die in the wilderness? For now though, take a breath and smell smoke. In the early afternoon..."
@@ -68,6 +68,6 @@ aliases:
 - Lonescar again called to the party to group and hide
 - Lonescar grazed by something without hearing it
 - Only Hafsah saw a strange monster speaking like a parrot, "Abzi... Help..."
-- A therizinosaurus, in this world, a [[Great Claw]]
+- A therizinosaurus, in this world, a [[Great Hook]]
 
 ![[Great Claw.png]]
