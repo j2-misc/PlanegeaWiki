@@ -57,7 +57,7 @@ Past
 
 ![[Spellskin Cave.png]]
 
-- Before they left, they were told of the wizard [[Dekuki]] who had some great beast with two terrible eyes, but they saw now the day star shone through one hole in the ceiling, the moon through the other; merely a tall tale
+- Before they left, they were told of the wizard [[Dakookie]] who had some great beast with two terrible eyes, but they saw now the day star shone through one hole in the ceiling, the moon through the other; merely a tall tale
 - It was quiet all except for a shuffling of steps, invisible servants. Lonescar also noticed some wood shaped into an arrangement resembling a human skull
 - Much of their work (re: scaring away humanoids) was already done. Lonescar set up some additional alerts toward the front, leaving the ceiling mostly unguarded, but it was unlikely anyone'd be able to get up there anyways
 

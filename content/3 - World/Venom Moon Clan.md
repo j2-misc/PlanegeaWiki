@@ -2,7 +2,7 @@
 tags:
   - Clan
 ---
-![[Venom Moon Clan.png]]
+![[Venom Moon Clan with Ravine.png]]
 > Red circle = Watch tower.
 > Red Tyrantmaw (dino) = Hunting House.
 > Blue handshake = Bartering Square.
@@ -34,4 +34,4 @@ Notable Figures within the Clan:
 - Potential notable options include: lead hunter to lead hunting groups, lead gatherer to enhance efficiency, storyteller to keep lore, arcanist for spreading magic, guardian for protecting the clan and its people, morning speaker for raising awareness of news inside and out of the clan, undershaman for enhancing religious elements, caretaker for watching the young, trader who brings goods and assists in trading them between clans, healer for assisting to heal injuries, or a champion- to encourage others to enhance themselves physically or otherwise in games as representatives of the Venom Moon Clan.
 
 Additional characters:
-- [[Unnamed Venom Moon Artist]]
+- [[Mich Ael]]

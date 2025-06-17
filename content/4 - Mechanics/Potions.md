@@ -1,0 +1,3 @@
+- Combat
+- Utility
+- Whimsy
